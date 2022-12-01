@@ -1,2 +1,7 @@
 import csv
 import xlrd
+import math
+import matplotlib.pyplot as plt
+from numpy import random, vstack, empty
+import math
+import csv
