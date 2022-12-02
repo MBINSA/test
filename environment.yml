@@ -13,4 +13,4 @@ dependencies:
   - scipy
   - pandas
   - voila
-  - xlrd
+  
